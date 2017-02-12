@@ -1,0 +1,2 @@
+Ha a felhasználó 0-val oszt, akkor a programnak hibát kell kiírnia. (Kiírja hogy Math ERROR) 
+Ezután, ha a felhasználó megnyomja a C vagy CE gombot, akkor újrakezdheti a számolást.
